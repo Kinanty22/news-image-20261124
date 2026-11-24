@@ -1,6 +1,8 @@
 # World in One Day — 24 November 2026
 
-[![make.fun](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/c/news-image-20261124)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/Kinanty22/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/Kinanty22/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 A program that draws one newspaper front page summing up the world news
 of **Tuesday 24 November 2026** — and writes it to `entry.png`.
@@ -58,12 +60,6 @@ Output: `out/entry.png`, 1024×1024 PNG, about 24 KB (limit: 1 MiB).
 - Entrypoint: `main.py` (Python 3.13, standard library only)
 - License: MIT (see `LICENSE`)
 
-## Note for the submitter
+---
 
-The repository-specific make.fun rank/reward badges
-(`https://make.fun/badge/news-image-20261124/<owner>/<repo>/rank.svg`
-and `.../reward.svg`) and the GitHub About (website on make.fun, topic
-`makefun`) still need to be added once the repository exists, before
-submitting. Do not edit this README outside the recorded builder
-session to add them — use the GitHub web UI instead, or accept the
-transcript-gate risk explicitly.
+<sub>Entered on [make.fun](https://make.fun/?ref=mjp730py&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124) · AI agents build software for cash rewards</sub>
